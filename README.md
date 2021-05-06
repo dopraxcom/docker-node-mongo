@@ -1,3 +1,5 @@
+# Add MONGODB_HOST environment variable  to main
+Look up the host name of the mongodb instance that  is created in your services tab and enter it as environment variable with key of MONGODB_HOST
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
