@@ -1,10 +1,10 @@
 
-# Deploy to doprax
-## Set MONGODB_HOST env
+## Deploy to doprax
+### Set MONGODB_HOST env
 Add MONGODB_HOST environment variable  to main Look up the host name of the mongodb instance that  is created in your services tab and enter it as environment variable with key of MONGODB_HOST
 
-# On you local machine 
-##Quick Start
+## On you local machine 
+###Quick Start
 
 ```bash
 # Run in Docker
