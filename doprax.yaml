@@ -1,5 +1,6 @@
-envs:
-  - MONGODB_HOST: mongodb
+main
+  envs:
+    - MONGODB_HOST: mongodb
 
 services:
   - mongodb:
